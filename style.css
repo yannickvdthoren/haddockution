@@ -49,15 +49,9 @@ h1{
 	letter-spacing: 0.7pt;
 }
 button#boutonListe{
-	background:
+	background-image:
 	-webkit-linear-gradient(top, transparent 0%, transparent 20%, #FFC560 20%, #FFC560 40%, transparent 40%, transparent 60%, #FFC560 60%, #FFC560 80%, transparent 80%, transparent 100%),
-	-webkit-linear-gradient(left, #fff 0, #fff 12%, transparent 12%,transparent 24%, #fff 24%, #fff 100%),
-	-moz-linear-gradient(top, transparent 0%, transparent 20%, #FFC560 20%, #FFC560 40%, transparent 40%, transparent 60%, #FFC560 60%, #FFC560 80%, transparent 80%, transparent 100%),
-	-moz-linear-gradient(left, #fff 0, #fff 12%, transparent 12%,transparent 24%, #fff 24%, #fff 100%),
-	-ms-linear-gradient(top, transparent 0%, transparent 20%, #FFC560 20%, #FFC560 40%, transparent 40%, transparent 60%, #FFC560 60%, #FFC560 80%, transparent 80%, transparent 100%),
-	-ms-linear-gradient(left, #fff 0, #fff 12%, transparent 12%,transparent 24%, #fff 24%, #fff 100%),
-	linear-gradient(top, transparent 0%, transparent 20%, #FFC560 20%, #FFC560 40%, transparent 40%, transparent 60%, #FFC560 60%, #FFC560 80%, transparent 80%, transparent 100%),
-	linear-gradient(left, #fff 0, #fff 12%, transparent 12%,transparent 24%, #fff 24%, #fff 100%);
+	-webkit-linear-gradient(left, #fff 0, #fff 12%, transparent 12%,transparent 24%, #fff 24%, #fff 100%);
 	background-repeat: no-repeat;
   	font-size: 12px;
   	width: 1.4em;
