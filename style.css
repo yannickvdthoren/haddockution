@@ -77,6 +77,9 @@ h2#insulte{
 	font-size: 30px;
 	width: 90vw;
 }
+h2#insulte:first-letter{
+	text-transform: uppercase;
+}
 section#panel{
 	display: none;
 	flex-direction: column;
